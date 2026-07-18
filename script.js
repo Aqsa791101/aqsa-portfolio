@@ -117,9 +117,7 @@
           '<div class="project-thumb">' +
             '<div class="project-cat-dot"><span>' + p.category + '</span></div>' +
             '<img src="' + p.image + '" alt="Homepage preview of ' + p.name + ' website" loading="lazy" />' +
-            '<div class="project-overlay">' +
-              '<a class="project-visit" href="' + p.url + '" target="_blank" rel="noopener noreferrer">Visit Website ' + arrow + '</a>' +
-            '</div>' +
+
           '</div>' +
           '<div class="project-body">' +
             '<h3 class="project-title">' + p.name + '</h3>' +
