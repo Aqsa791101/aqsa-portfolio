@@ -211,7 +211,7 @@ h1, h2, h3 { font-family: "Playfair Display", Georgia, serif; line-height: 1.12;
 .project-cat-dot { position: absolute; top: 14px; left: 14px; z-index: 2; }
 .project-cat-dot span {
   font-size: 0.72rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase;
-  color: var(--white); background: rgba(35,79,62,0.82); backdrop-filter: blur(4px);
+  color: color: var(--green-deep); background: rgb(245, 166, 35); backdrop-filter: blur(4px);
   padding: 6px 12px; border-radius: 999px;
 }
 .project-body { padding: 22px 22px 26px; display: flex; flex-direction: column; gap: 10px; flex: 1; }
