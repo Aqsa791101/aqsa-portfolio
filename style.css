@@ -199,7 +199,7 @@ h1, h2, h3 { font-family: "Playfair Display", Georgia, serif; line-height: 1.12;
 .project-overlay {
   position: absolute; inset: 0; display: flex; align-items: flex-end; justify-content: center; padding: 18px;
   background: linear-gradient(180deg, rgba(35,79,62,0) 40%, rgba(35,79,62,0.86) 100%);
-  opacity: 0; transition: opacity 0.4s var(--ease);
+  opacity: 1; transition: opacity 0.4s var(--ease);
 }
 .project-card:hover .project-overlay { opacity: 1; }
 .project-visit {
