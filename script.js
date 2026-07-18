@@ -9,7 +9,7 @@
     {
       name: "Cheap Server Licenses",
       url: "https://cheapserverlicenses.com",
-      image: "images/cheapserverlicenses.png",
+      image: "cheapserverlicenses.png.jpeg",
       category: "Hosting Website",
       tags: ["Hosting", "eCommerce", "Elementor Pro"],
       desc: "A modern licensing and server platform where users can buy, manage and activate genuine server licenses instantly with a clean, conversion-focused design."
@@ -17,7 +17,7 @@
     {
       name: "Virtual Ibex",
       url: "https://virtualibex.com",
-      image: "images/virtualibex.png",
+      image: "virtualibex.png.jpeg",
       category: "Business Website",
       tags: ["Business", "Agency", "Responsive"],
       desc: "A digital marketing and web development agency website in Lahore with strong lead-generation sections and a professional corporate identity."
@@ -25,7 +25,7 @@
     {
       name: "Mecrex",
       url: "https://mecrex.com",
-      image: "images/mecrex.png",
+      image: "mecrex.png.jpeg",
       category: "eCommerce Website",
       tags: ["eCommerce", "Products", "WooCommerce"],
       desc: "An industrial safety products store showcasing mechanics gloves and gear with a bold hero slider and structured product catalog."
@@ -33,7 +33,7 @@
     {
       name: "WebOrion",
       url: "https://weborion.ca",
-      image: "images/weborion.png",
+      image: "weborion.png.jpeg",
       category: "Corporate Website",
       tags: ["Corporate", "Agency", "Lead Gen"],
       desc: "Canada's low-cost web design agency website featuring a striking dark hero, integrated quote form and clear service packages."
@@ -41,7 +41,7 @@
     {
       name: "WebHoster PK",
       url: "https://webhoster.pk",
-      image: "images/webhoster.png",
+      image: "webhoster.png.jpeg",
       category: "Hosting Website",
       tags: ["Hosting", "Business", "Responsive"],
       desc: "A fast, promotion-driven web hosting website for the Pakistani market with pricing highlights, offers and trust-building elements."
@@ -49,7 +49,7 @@
     {
       name: "Seven Seas",
       url: "https://sevenseas-me.com",
-      image: "images/sevenseas.png",
+      image: "sevenseas.png.jpeg",
       category: "Corporate Website",
       tags: ["Corporate", "Workforce", "Enquiry"],
       desc: "An overseas manpower and workforce solutions company site connecting Pakistani talent with UAE and GCC markets through a premium corporate layout."
@@ -57,7 +57,7 @@
     {
       name: "Polisportiva NIR",
       url: "https://polisportivanir.it",
-      image: "images/polisportivanir.png",
+      image: "polisportivanir.png.jpeg",
       category: "Business Website",
       tags: ["Sports", "Fitness", "Responsive"],
       desc: "An Italian sports and martial arts club website with karate, fitness and body-building programs presented in an energetic, image-led design."
@@ -65,7 +65,7 @@
     {
       name: "JFK Animal Rescue",
       url: "https://jfkanimalrescueandshelter.com",
-      image: "images/jfkanimalrescue.png",
+      image: "jfkanimalrescue.png.jpeg",
       category: "NGO Website",
       tags: ["Non-profit", "Donations", "Cause"],
       desc: "A heartfelt non-profit website for an animal rescue and shelter, with donation calls-to-action, rescue stories and multi-language support."
@@ -73,7 +73,7 @@
     {
       name: "Galaxy Forwarders",
       url: "https://galaxyforwarders.com",
-      image: "images/galaxyforwarders.png",
+      image: "galaxyforwarders.png.jpeg",
       category: "Logistics Website",
       tags: ["Logistics", "Corporate", "Tracking"],
       desc: "An international logistics and relocation company website with shipment tracking, service breakdowns and 43+ years of expertise on display."
@@ -81,7 +81,7 @@
     {
       name: "MJA Architects",
       url: "https://mjaarchitect.com",
-      image: "images/mjaarchitect.png",
+      image: "mjaarchitect.png.jpeg",
       category: "Architecture Website",
       tags: ["Architecture", "Portfolio", "Gallery"],
       desc: "A refined architecture studio portfolio highlighting high-end corporate and institutional projects through immersive imagery and selected works."
@@ -89,7 +89,7 @@
     {
       name: "EZ Source Hub",
       url: "https://ezsourcehub.com",
-      image: "images/ezsourcehub.png",
+      image: "ezsourcehub.png.jpeg",
       category: "Business Website",
       tags: ["B2B", "Corporate", "Network"],
       desc: "A specialized global knowledge and sourcing platform with a bold dark hero, animated stats and a data-driven B2B positioning."
@@ -97,7 +97,7 @@
     {
       name: "Sehr Couture",
       url: "https://sehrcouture.com",
-      image: "images/sehrcouture.png",
+      image: "sehrcouture.png.jpeg",
       category: "Fashion Website",
       tags: ["Fashion", "eCommerce", "Luxury"],
       desc: "A luxury bridal and couture fashion store with editorial photography, filterable collections and an elegant premium shopping experience."
